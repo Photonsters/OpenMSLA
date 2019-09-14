@@ -10,9 +10,13 @@ Stepper motor, LED array, fans, and endstop. It would have an FPGA to control th
 - https://www.aliexpress.com/item/32988260420.html
 
 ### Stepper driver options
-- Trinamic 2209 Pros(noiseless, ability to run without endstops)
+https://learn.watterott.com/silentstepstick/comparison/
+- Trinamic 2208 v3
+  - Pros: inexpensive, noiseless, uart configurable.
+  - Cons: Less current vs. 2209, no Stallguard feature.
+- Trinamic 2209
   - https://www.trinamic.com/products/integrated-circuits/details/tmc2209-la/
-  - Pros: noiseless, ability to run without endstops, uart configurable
+  - Pros: noiseless, ability to run without endstops (Stallguard), uart configurable
 - Trinamic 5160 
   - https://www.trinamic.com/products/integrated-circuits/details/tmc5160/
   - Pros: cooler operation, higher amps, more torque
