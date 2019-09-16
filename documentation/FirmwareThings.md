@@ -24,3 +24,7 @@
 - Ability to read standard and common formats (cws, zip, cbddlp, photon, spark, SL1)
 - Plugabble new file formats
 
+### Z-axis motion
+- We could take the Klipper and Replicape approach of sending Z-axis and endstop tasks to a MC for RT execution.
+- This library is used to control TMC steppers in recent versions of Marlin:
+  - https://github.com/teemuatlut/TMCStepper
