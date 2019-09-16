@@ -16,11 +16,11 @@ https://learn.watterott.com/silentstepstick/comparison/
   - Cons: Less current vs. 2209, no Stallguard feature.
 - Trinamic 2209
   - https://www.trinamic.com/products/integrated-circuits/details/tmc2209-la/
-  - Pros: noiseless, ability to run without endstops (Stallguard), uart configurable
+  - Pros: noiseless, ability to run without endstops (Stallguard), uart configurable, drop in replacement for 2208
 - Trinamic 5160 
   - https://www.trinamic.com/products/integrated-circuits/details/tmc5160/
   - Pros: cooler operation, higher amps, more torque
-  - Cons: overkill, twice the price expensive
+  - Cons: overkill, twice the price
 
 ### LED options
 - EPAX parallel 50W (will need cooling - see below)
