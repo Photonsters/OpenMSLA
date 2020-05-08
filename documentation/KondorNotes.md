@@ -1,4 +1,5 @@
 This is a place to make notes about what makes Kondor tick.
+
 https://github.com/kondor3d/kondor
 
 It looks like the whole app is started with the /home/pi/run.sh script.  It is not clear to me how this automatically gets run at boot.
