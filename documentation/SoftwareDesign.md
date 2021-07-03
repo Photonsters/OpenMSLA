@@ -25,9 +25,9 @@ URL | METHOD | ACTION
 /upload?clientFilespec | POST | Upload file
 /download?serverFilespec | GET | Download file
 /delete?serverFilespec | DELETE | Delete file
-/zhome<?endstopID> | PUT | Home the Z-axis
-/zabs?position | PUT | Move the Z-axis to <position>
-/zrel?distance | PUT | Move the Z-axis by <distance>
+/zhome\<?endstopID\> | PUT | Home the Z-axis
+/zabs?position | PUT | Move the Z-axis to \<position\>
+/zrel?distance | PUT | Move the Z-axis by \<distance\>
 /zero | PUT | Set Z=0 to the current location
 /set?name=value | PUT | Set any number of print(er) parameters
 /print?serverFilespec | PUT | Print the specified file
