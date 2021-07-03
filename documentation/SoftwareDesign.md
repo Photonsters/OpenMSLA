@@ -1,6 +1,6 @@
-#OS Design
+# OS Design
 
-##Name Storming:
+## Name Storming:
 The project should have a reasonably memorable name that is unique so that search engines easily
 index/find content about it.  Ideas: 
  1. SLIPI/SLIPRI - StereoLIthography P(R)inting Interface
@@ -11,7 +11,7 @@ index/find content about it.  Ideas:
  6. h-Bar OS (ℏOS)
  7. ...
  
-##REST API
+## REST API
 To facilitate adoption and allow for innovation in methodology to interact with one or more machines from a single UI, we should
 define a REST-like API.  The process that projects images into the vat is the "server".  The process interpreting
 input from the user and/or presenting the state of the server is the "client".  A client can run anywhere.  A server is a "printer" and may
