@@ -9,7 +9,7 @@ index/find content about it.  Ideas:
  4. PUVRay (Photonsters UV Raycaster?)
  5. Phojektor
  6. h-Bar OS (ℏOS)
- 7. ...
+ 7. Open-MSLA?
  
 ## REST API
 To facilitate adoption and allow for innovation in methodology to interact with one or more machines from a single UI, we should
