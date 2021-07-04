@@ -10,6 +10,7 @@ index/find content about it.  Ideas:
  5. Phojektor
  6. h-Bar OS (ℏOS)
  7. Open-MSLA?
+ 8. ...
  
 ## REST API
 To facilitate adoption and allow for innovation in methodology to interact with one or more machines from a single UI, we should
@@ -28,8 +29,10 @@ URL | METHOD | ACTION
 /zhome\<?endstopID\> | PUT | Home the Z-axis
 /zabs?position | PUT | Move the Z-axis to \<position\>
 /zrel?distance | PUT | Move the Z-axis by \<distance\>
-/zero | PUT | Set Z=0 to the current location
+/zget | GET | Read the current Z-axis position
+/zero\<offset\> | PUT | Set Z=0 to the current location (or to \<offset\>)
 /set?name=value | PUT | Set any number of print(er) parameters
+/get?name | GET | Read any number of print(er) parameters
 /print?serverFilespec | PUT | Print the specified file
 /cancel | PUT | Stop the current print
 /pause | PUT | Pause the current print
