@@ -14,7 +14,7 @@ index/find content about it.  Ideas:
  
 ## REST API
 To facilitate adoption and allow for innovation in methodology to interact with one or more machines from a single UI, we should
-define a REST-like API.  The process that projects images into the vat is the "server".  The process interpreting
+define a REST-like API.  The process that projects images into the vat, runs the fans and Z-axis, is the "server".  The process interpreting
 input from the user and/or presenting the state of the server is the "client".  A client can run anywhere.  A server is a "printer" and may
 or may not also run a client or have local/internal means for a user to interact with it.
 
