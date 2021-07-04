@@ -30,7 +30,7 @@ URL | METHOD | ACTION
 /zabs?position | PUT | Move the Z-axis to \<position\>
 /zrel?distance | PUT | Move the Z-axis by \<distance\>
 /zget | GET | Read the current Z-axis position
-/zero\<offset\> | PUT | Set Z=0 to the current location (or to \<offset\>)
+/zero | PUT | Set Z=0 to the current location
 /set?name=value | PUT | Set any number of print(er) parameters
 /get?name | GET | Read any number of print(er) parameters
 /print?serverFilespec | PUT | Print the specified file
