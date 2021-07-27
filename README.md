@@ -1,4 +1,4 @@
-<img src="https://github.com/Photonsters/OpenMSLA/blob/master/branding/openmsla_icon.png" width="200" />
+<img src="https://github.com/Photonsters/OpenMSLA/blob/master/branding/openmsla_icon.png" width="100" />
 
 # OpenMSLA
 An Open Source MSLA Controller
@@ -9,6 +9,8 @@ An Open Source MSLA Controller
 - [UI Design](https://github.com/Photonsters/OpenMSLA/blob/master/ui/ui.md)
 - [Branding](https://github.com/Photonsters/OpenMSLA/blob/master/branding/branding.md)
 
-#### IDEAS
+----
+
+### IDEAS
 
 See if we can leverage Klipper/Fluidd as a OS for OpenMSLA for  fast and reliable multiple hardware support 
