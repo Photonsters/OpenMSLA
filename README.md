@@ -1,4 +1,4 @@
-<img src="https://github.com/Photonsters/OpenMSLA/blob/master/branding/openmsla_icon.png" width="100" />
+<img src="https://github.com/Photonsters/OpenMSLA/blob/master/branding/openmsla_icon.png" width="250" align="right">
 
 # OpenMSLA
 An Open Source MSLA Controller
